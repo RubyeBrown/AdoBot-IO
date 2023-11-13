@@ -1,4 +1,4 @@
-# AdoBot-IO
+##AdoBot-IO
 [AdoBot](https://github.com/adonespitogo/AdoBot) Android Spyware Server
 
 
@@ -43,7 +43,7 @@ $ git commit -am "initial commit"
 $ git push heroku master
 $ heroku open
 ```
-  - That's it, your  done! Now set up the [AdoBot](https://github.com/adonespitogo/AdoBot) android client if you haven't done it yet.
+  - That's it, your  done  Now set up the [AdoBot](https://github.com/adonespitogo/AdoBot) android client if you haven't done it yet.
 
 # Development
 
@@ -80,3 +80,4 @@ Browse to http://127.0.0.1:3000
 
 Released under [MIT License](./MIT-License.txt)
 
+ 
